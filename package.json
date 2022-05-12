@@ -1,0 +1,22 @@
+{
+  "name": "atividade6-academy-elaine-ferreira",
+  "version": "1.0.0",
+  "description": "Atividade da semana 6",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elaine-cristina-qa/atividade6-academy-ELAINE-FERREIRA.git"
+  },
+  "author": "Elaine Ferreira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elaine-cristina-qa/atividade6-academy-ELAINE-FERREIRA/issues"
+  },
+  "homepage": "https://github.com/elaine-cristina-qa/atividade6-academy-ELAINE-FERREIRA#readme",
+  "dependencies": {
+    "cypress": "^9.6.1"
+  }
+}
